@@ -18,7 +18,7 @@
     "mailparser": "^2.6.0",
     "marked": "^0.6.2",
     "moment": "^2.24.0",
-    "mongoose": "^5.5.4",
+    "mongoose": "^5.13.15",
     "passport": "^0.4.0",
     "passport-github": "^1.1.0",
     "request": "^2.88.0",
